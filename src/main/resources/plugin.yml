@@ -1,0 +1,12 @@
+name: AAGui
+version: 1.0
+main: coldfyre.aagui.AAGui
+author: Sommod
+description: Making Guis easy and colorful.
+api-version: 1.19.2
+depend: [AACore]
+
+commands:
+  aagui:
+    usage: /AAGui Help for list of commands
+    aliases: [gui, aag, agui]
